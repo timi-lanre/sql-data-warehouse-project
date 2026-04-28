@@ -6,6 +6,7 @@ This project demonstrates a comprehensive data warehousing and analyticsolution,
 ---
 
 ## 🚀 Project Requirements
+https://www.notion.so/SQL-Data-Warehouse-Project-018109d1e51c83a2b8af0181e55ae373 - Project Roadmap
 
 ### Building the Data Warehouse (Data Engineering)
 
